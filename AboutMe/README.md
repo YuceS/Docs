@@ -1,6 +1,7 @@
 Yuce Sungur
 ====
 [+44 7789 653745](tel:+447789653745)
+
 [yuce.sungur@gmail.com](mailto:yuce.sungur@gmail.com)
 
 PROFILE
@@ -14,14 +15,17 @@ EXPERIENCE
 ##### Technology Consultant, Capital Markets - Financial Services, Accenture UKI, London; 2017 August-Present
 + DevOps Engineer role for an American Investment Bank on application transformation and replatforming project. He delivered Vault component of the platform using Helm charts running on Azure Kubernetes Service(AKS) and deployment shell scripts.
 + Lead DevOps/DevSecOps Engineer role on a multi-vendor cloud migration programme for a financial regulator/institution, delivering high-level designs, creating pipelines. Hands-on experience includes Python, Chef, Inspec, Packer, Jenkins, security controls.
-+ Lead Architect for a telco, on an AWS migration project, creating high-level, low-level designs and infrastructure-as-code.Hands-on experience includes CloudFormation, Python, Ansible.
-+ Customer facing Security Architect role for a resources client. Key responsibilities: high- and low-level designs, stakeholder management, vendor management, requirements gathering.
++ Lead Architect role for a major telco, on an AWS migration project, creating high-level, low-level designs and infrastructure-as-code.Hands-on experience includes CloudFormation, Python, Ansible.
++ Security Architect role for a resources client. Key responsibilities: high- and low-level designs, stakeholder management, vendor management, requirements gathering.
+  
 ##### Lead Enterprise Architect, IsBank; Istanbul — 2006 September -2017 August
 + Solution Developer: hands-on development of some key infrastructure solutions, like:
   + Identity federation between online banking web site and e-government ( OAuth2, DataPower, C#),
+  + Canary deployment automation for internet portals (SharePoint farms, F5, PowerShell),
   + A messaging gateway between direct banking channels and Mainframe (J2EE, F5 iRules),
   + A software update system for branches ( BranchCache, C#),
   + Deployment automation for load balancers (J2EE, XML, Python API),
+  + An OTP server  for VPN gateways (Java, Linux)
 + Chief Architect for Data Centre Transformation Program and Technical Lead of the Design Phase: Responsible for 10K / 50 K+ man days within the over all program. Work includes, not only:
   + High and Low Level Design of 13 IT operations domain, domain workshops and design integrity workshops,
   + Leading the active-active design patterns workgroup,
@@ -50,4 +54,4 @@ CERTIFICATIONS
   
 HOBBIES
 ---
-Raspberry Pi/IoT, Rowing, Cycling.
+Raspberry Pi, Rowing, Cycling.
