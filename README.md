@@ -11,12 +11,12 @@ Always helping business units, clients learning the technology and choosing the 
 
 EXPERIENCE 
 ---
-#####Technology Consultant, Capital Markets - Financial Services, Accenture UKI, London; 2017 August-Present
+##### Technology Consultant, Capital Markets - Financial Services, Accenture UKI, London; 2017 August-Present
 + DevOps Engineer role for an American Investment Bank on application transformation and replatforming project. He delivered Vault component of the platform using Helm charts running on Azure Kubernetes Service(AKS) and deployment shell scripts.
 + Lead DevOps/DevSecOps Engineer role on a multi-vendor cloud migration programme for a financial regulator/institution, delivering high-level designs, creating pipelines. Hands-on experience includes Python, Chef, Inspec, Packer, Jenkins, security controls.
 + Lead Architect for a telco, on an AWS migration project, creating high-level, low-level designs and infrastructure-as-code.Hands-on experience includes CloudFormation, Python, Ansible.
 + Customer facing Security Architect role for a resources client. Key responsibilities: high- and low-level designs, stakeholder management, vendor management, requirements gathering.
-#####Lead Enterprise Architect, IsBank; Istanbul — 2006 September -2017 August
+##### Lead Enterprise Architect, IsBank; Istanbul — 2006 September -2017 August
 + Solution Developer: hands-on development of some key infrastructure solutions, like:
   + Identity federation between online banking web site and e-government ( OAuth2, DataPower, C#),
   + A messaging gateway between direct banking channels and Mainframe (J2EE, F5 iRules),
@@ -29,7 +29,7 @@ EXPERIENCE
 + Solutions and Integration Architect for Digital Banking Apps: Working on the implementation of new apps and solutions with software architects for secure integration, requirements and stakeholder management with business units.
 + Leading a team of infrastructure architects, creating IT infrastructure and security standards, working closely with infrastructure, business teams and architectural committee on enterprise standards, being a centralized coordination point between infrastructure teams, development teams, business teams.
 
-#####Software Developer, General Electric - MTC; Istanbul — 2005-2006
+##### Software Developer, General Electric - MTC; Istanbul — 2005-2006
 Python and Java development; JUnit, Ant, Zope 
 
 CERTIFICATIONS
@@ -47,4 +47,4 @@ CERTIFICATIONS
   
 HOBBIES
 ---
-Raspberry Pi/IoT, Rowing, Cycling, British Mensa.
+Raspberry Pi/IoT, Rowing, Cycling.
