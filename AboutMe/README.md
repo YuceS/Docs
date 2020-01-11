@@ -34,10 +34,13 @@ Python and Java development; JUnit, Ant, Zope
 
 CERTIFICATIONS
 ---
-* CNCF Certified Kubernetes Application Developer(CKAD)
-* Google Certified Professional Cloud Developer, Professional Cloud Architect
-* AWS Certified Solutions Architect – Professional, DevOps Engineer – Professional
-* CISSP(2011), TOGAF 9(2013)
+* [ Certified Kubernetes Application Developer(CKAD) ] (https://www.cncf.io/certification/ckad/)
+* [ Google Certified Professional Cloud Developer ] (https://cloud.google.com/certification/cloud-developer)
+* [ Google Certified Professional Cloud Architect ] (https://cloud.google.com/certification/cloud-architect)
+* [ AWS Certified Solutions Architect – Professional ] (https://aws.amazon.com/certification/certified-solutions-architect-professional/) 
+* [ AWS Certified DevOps Engineer – Professional ] (https://aws.amazon.com/certification/certified-devops-engineer-professional/)
+* [ Certified Information Systems Security Professional (CISSP)] (https://www.isc2.org/Certifications/CISSP)
+* [ TOGAF 9] (https://www.opengroup.org/certifications/togaf)
  
  EDUCATION
 ---
