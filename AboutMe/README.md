@@ -1,14 +1,15 @@
 Yuce Sungur
 ====
-[+44 7789 653745](tel:+447789653745)
 
 [yuce.sungur@gmail.com](mailto:yuce.sungur@gmail.com)
 
+[+44 7789 653745](tel:+447789653745)
+
 PROFILE
 -----
-Highly motivated, driven Solutions Architect with more than 12 years of banking experience on enterprise applicatione, mainframe, integration, security.
-Demonstrated ability of adaptation to new [technical skills](#certifications). 
-Always helping business units, clients learning the technology and choosing the solution that fits.
+Highly motivated, driven Solutions Architect with more than 12 years of banking experience on enterprise applications, mainframe, integration, security.
+
+Demonstrated ability of adaptation to new [technical skills](#certifications). Always helping business units, clients learning the technology and choosing the solution that fits.
 
 EXPERIENCE 
 ---
@@ -48,9 +49,9 @@ CERTIFICATIONS
  
  EDUCATION
 ---
-- Vrije Universiteit Brussel, Brussels  — MSc in Applied Computer Science, 2003
-- Dokuz Eylul University, Izmir — BS in Electrical and Electronics Engineering,2001
-- Bornova Anatolian High School, Izmir, 1996
+- Vrije Universiteit Brussel, Brussels  — MSc in Applied Computer Science, 
+- Dokuz Eylul University, Izmir — BS in Electrical and Electronics Engineering.
+- Bornova Anatolian High School, Izmir
   
 HOBBIES
 ---
