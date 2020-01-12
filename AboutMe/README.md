@@ -57,4 +57,3 @@ HOBBIES
 ---
 Raspberry Pi, Rowing, Cycling.
 
-[Click to Print!](javascript:document.querySelector('.markdown-body').setAttribute('style', 'position: absolute; top: 0; left: 0;right: 0; bottom: 0; z-index: 100; background-color: white; border:0');document.querySelector('body').appendChild(document.querySelecto('.markdown-body'));window.print())
