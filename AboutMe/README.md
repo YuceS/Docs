@@ -14,7 +14,7 @@ Demonstrated ability of adaptation to new [technical skills](#certifications). A
 EXPERIENCE 
 ---
 ##### Technology Consultant, Capital Markets - Financial Services, Accenture UKI, London; 2017 August-Present
-+ DevOps Engineer role for an American Investment Bank on application transformation and replatforming project. He delivered Vault component of the platform using Helm charts running on Azure Kubernetes Service(AKS) and deployment shell scripts.
++ DevOps Engineer role for an investment bank on application transformation and replatforming project. He delivered Vault component of the platform using Helm charts running on Azure Kubernetes Service(AKS) and deployment scripts.
 + Lead DevOps/DevSecOps Engineer role on a multi-vendor cloud migration programme for a financial regulator/institution, delivering high-level designs, creating pipelines. Hands-on experience includes Python, Chef, Inspec, Packer, Jenkins, security controls.
 + Lead Architect role for a major telco, on an AWS migration project, creating high-level, low-level designs and infrastructure-as-code.Hands-on experience includes CloudFormation, Python, Ansible.
 + Security Architect role for a resources client. Key responsibilities: high- and low-level designs, stakeholder management, vendor management, requirements gathering.
