@@ -7,7 +7,7 @@ Yuce Sungur
 
 PROFILE
 -----
-Highly motivated, driven Solutions Architect with more than 12 years of banking experience on enterprise applications, mainframe, integration, security.
+Highly motivated, driven Solutions Architect with more than 13 years of banking experience on enterprise applications, mainframe, integration, security.
 
 Demonstrated ability of adaptation to new [technical skills](#certifications). Always helping business units, clients learning the technology and choosing the solution that fits.
 
